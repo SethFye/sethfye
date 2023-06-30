@@ -1,12 +1,15 @@
-<h1>Welcome to my MagicCyberRide, I'm Seth! <br/><a href="https://github.com/joshmadakor1">Cyber Fraud Investigator</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Practitioner</a>, <a href="https://www.youtube.com/c/joshmadakor">Security Expert</a></h1>
+<h1>Welcome to my MagicCyberRide, I'm Seth! <br/><a href="https://github.com/sethfye">Cyber Fraud Investigator</a>, <a href="https://www.linkedin.com/in/cyberfraudseth/">Cybersecurity Practitioner</a>, <a href="https://www.youtube.com/c/frauddawg">Security Expert</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Homelab](https://github.com/joshmadakor1/LabURL)
+- [Active Directory Homelab](https://github.com/sethfye/LabURL)
 
 <h2>👨‍💻 Certifications:</h2>
 
-- [Active Directory Homelab](https://github.com/joshmadakor1/LabURL)
+- [CompTIA A+](https://github.com/sethfye/LabURL)          [CompTIA A+](https://github.com/sethfye/LabURL)
+- [CompTIA A+](https://github.com/sethfye/LabURL)
+- [CompTIA A+](https://github.com/sethfye/LabURL)
+- [CompTIA A+](https://github.com/sethfye/LabURL)
   
 <h2>📺 My YouTube Videos</h2>
 
@@ -23,7 +26,7 @@
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/cyberfraudseth
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
