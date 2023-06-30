@@ -6,10 +6,13 @@
 
 <h2>👨‍💻 Certifications:</h2>
 
-- [CompTIA A+](https://github.com/sethfye/LabURL)          [CompTIA A+](https://github.com/sethfye/LabURL)
+- [CompTIA Project+](https://github.com/sethfye/LabURL)
+- [CompTIA CySA+](https://github.com/sethfye/LabURL)          
+- [CompTIA Security+](https://github.com/sethfye/LabURL)
+- [CompTIA Network+](https://github.com/sethfye/LabURL)
 - [CompTIA A+](https://github.com/sethfye/LabURL)
-- [CompTIA A+](https://github.com/sethfye/LabURL)
-- [CompTIA A+](https://github.com/sethfye/LabURL)
+- [ISC² Certified in Cybersecurity](https://github.com/sethfye/LabURL)
+- [ITIL 4](https://github.com/sethfye/LabURL)
   
 <h2>📺 My YouTube Videos</h2>
 
