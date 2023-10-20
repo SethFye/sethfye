@@ -1,4 +1,4 @@
-<h1>I am Seth. Welcome to my MagicCyberRide!<br/><a href="https://github.com/sethfye">Cyber Fraud Investigator</a>, <a href="https://www.linkedin.com/in/cyberfraudseth/">Cybersecurity Practitioner</a>, <a href="https://www.youtube.com/c/frauddawg">Security Expert</a></h1>
+<h1>Welcome to my MagicCyberRide!<br/><a href="https://github.com/sethfye">Cyber Fraud Investigator</a>, <a href="https://www.linkedin.com/in/cyberfraudseth/">Cybersecurity Practitioner</a>, <a href="https://www.youtube.com/c/frauddawg">Security Expert</a></h1>
 
 <h2>🎬 Cybersecurity Projects:</h2>
 
